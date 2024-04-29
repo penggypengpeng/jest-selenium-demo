@@ -1,0 +1,19 @@
+{
+  "name": "jest-selenium-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/selenium-webdriver": "^4.1.22",
+    "chromedriver": "^124.0.1",
+    "geckodriver": "^4.4.0",
+    "jest": "^29.7.0",
+    "selenium-webdriver": "^4.20.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
